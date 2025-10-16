@@ -1,0 +1,7 @@
+{
+  "name": "API Nhà Thông Minh",
+  "version": "1.0.0",
+  "description": "Tài liệu API để quản lý thiết bị, xem lịch sử và dữ liệu cảm biến.",
+  "title": "Tài liệu API Nhà Thông Minh",
+  "url" : "http://localhost:3000"
+}
