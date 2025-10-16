@@ -48,7 +48,7 @@ const ProfilePage = () => (
                     <Github className="w-8 h-8 text-gray-700 flex-shrink-0" />
                     <div className="flex-grow overflow-hidden"> {/* Thêm overflow-hidden để truncate hoạt động */}
                         <label className="text-sm text-gray-500">Link Github:</label>
-                        <a href="https://github.com/GiapNguyenTh" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline block truncate">
+                        <a href="https://github.com/giapmanne69/iot/tree/main/IOT_PI" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline block truncate">
                            https://github.com/giapmanne69
                         </a>
                     </div>
@@ -59,7 +59,7 @@ const ProfilePage = () => (
                     <FileText className="w-8 h-8 text-gray-700 flex-shrink-0" />
                     <div className="flex-grow overflow-hidden">
                         <label className="text-sm text-gray-500">File PDF Báo cáo:</label>
-                        <a href="#" className="text-blue-600 hover:underline block truncate">
+                        <a href="https://drive.google.com/file/d/1mDxx58nQ6JLsr0x39e-EqBkgaKO__L0_/view?usp=sharing" className="text-blue-600 hover:underline block truncate">
                             Xem chi tiết tại đây
                         </a>
                     </div>
